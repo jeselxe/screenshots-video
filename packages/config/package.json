@@ -1,0 +1,7 @@
+{
+  "name": "@screenshots/config",
+  "private": true,
+  "main": "config.mjs",
+  "module": "config.mjs",
+  "types": "config.d.ts"
+}

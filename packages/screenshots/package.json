@@ -1,0 +1,12 @@
+{
+  "name": "@screenshots/screenshots",
+  "private": true,
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "puppeteer": "^19.6.1",
+    "yargs": "^17.6.2"
+  },
+  "scripts": {
+    "scrape": "node index.mjs"
+  }
+}
